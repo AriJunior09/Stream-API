@@ -12,8 +12,7 @@ public class Aula03 {
 
 		System.out.printf("Meu nome é: %s %n", nome); 		// %s para String
 		System.out.printf("Minha idade é: %d %n", idade);   // %d para Inteiro
-		System.out.printf("Minha altura é: %.2f%n", altura);// %f para float ou double
-
+		System.out.printf("Minha altura é: %.2f%n", altura);// %f para flutuante
 		System.out.printf("O valore de Pi é: %.4f%n", PI);
 
 	}
