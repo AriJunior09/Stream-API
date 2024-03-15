@@ -10,8 +10,8 @@ public class Aula03 {
 		int idade = 32;
 		double altura = 1.79;
 
-		System.out.printf("Meu nome é: %s %n", nome); // %s para String
-		System.out.printf("Minha idade é: %d %n", idade); // %d para Inteiro
+		System.out.printf("Meu nome é: %s %n", nome); 		// %s para String
+		System.out.printf("Minha idade é: %d %n", idade);   // %d para Inteiro
 		System.out.printf("Minha altura é: %.2f%n", altura);// %f para float ou double
 
 		System.out.printf("O valore de Pi é: %.4f%n", PI);
