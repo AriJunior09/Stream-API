@@ -1,5 +1,13 @@
 
-# Comandos
+# Git e GitHub
+
+## 📚 Documentação
+- [Documentação Git](https://git-scm.com/docs/git/pt_BR)
+- [Documentação GitHub](https://docs.github.com/pt)
+
+
+## 💻 Principais Comandos Git:
+- [Comandos](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
 ## Git Ignore:
 É usado para especificar arquivos ou diretórios que você deseja ignorar durante o controle de versão. Isso significa que o Git não rastreará as alterações nesses arquivos, permitindo que você evite incluí-los acidentalmente em commits. Ele é útil para excluir arquivos temporários, arquivos de compilação, ou quaisquer outros que não devam ser versionados.
