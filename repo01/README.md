@@ -26,4 +26,4 @@ Quando você cria um diretório e não adiciona nenhum arquivo dentro dele, o Gi
 touch nome-da-pasta/.gitkeep;
 ```
 
-Teste
+Teste02
