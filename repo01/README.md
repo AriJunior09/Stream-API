@@ -24,6 +24,10 @@ Quando você cria um diretório e não adiciona nenhum arquivo dentro dele, o Gi
 
 ```
 touch nome-da-pasta/.gitkeep;
+<<<<<<< HEAD
 ```
 
 Teste02
+=======
+```
+>>>>>>> 79747733ed076156f4222862af143ae62ba9ccc8
